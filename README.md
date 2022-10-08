@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hardy
-- 👀 I’m interested in Data Analysis and Exploration
-- 🌱 I’m currently doing internship as a Data Analyst
-- 💞️ I’m looking to collaborate on ideas on Data
+- 👋 Hi, I’m Hardy.
+- 👀 I’m interested in Data Analysis, Exploration and giving meaningful insights to the company stakeholders.
+- 🌱 I’m currently doing internship as a BI Developer/Data Analyst.
+- 💞️ I’m looking to collaborate on ideas on Data.
 - 📫 How to reach me https://www.linkedin.com/in/hardik-b-909832233/
 
 <!---
